@@ -1,2 +1,4 @@
 # A-Clear-Understandable-Name
-This is an example of creating a repo 
+We are making some edits
+New repos are awesome, man
+I love Dr. Slick.
